@@ -1,4 +1,4 @@
-// Project 1: Making an auto-generate set of multiplication table 
+# Project 1: Making an auto-generate set of multiplication table 
 print ("\nMULTIPLICATION TABLE")
 
 for i in range (2,10):
